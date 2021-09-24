@@ -1,4 +1,4 @@
 Hhis is my new file
 I am appending existing file line
 Made changes to console from local environment 
-e  
+Learning git   
